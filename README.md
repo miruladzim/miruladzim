@@ -79,8 +79,3 @@
 
 </div>
 
-<br />
-
-<div align="center">
-  <sub>Designed with ❤️ by Amirul Adzim</sub>
-</div>
