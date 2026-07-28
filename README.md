@@ -46,12 +46,16 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miruladzim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amirul's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miruladzim&layout=compact&theme=tokyonight&hide_border=true&hide=html" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miruladzim&show_icons=true&theme=tokyonight&hide_border=true" alt="Amirul's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miruladzim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-  <br />
+  <br /><br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miruladzim&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=miruladzim&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+  <br /><br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miruladzim&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
